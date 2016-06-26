@@ -3,14 +3,14 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
   <packaging>jar</packaging>
-  <version>1.8-SNAPSHOT</version>
+  <version>1.8</version>
   <name>Maven Quick Start Archetype</name>
   <url>http://maven.apache.org</url>
   <scm>
      <connection>scm:git:git@github.com:alexzhxin/nexus-test.git</connection>
      <url>scm:git:git@github.com:alexzhxin/nexus-test.git</url>
      <developerConnection>scm:git:git@github.com:alexzhxin/nexus-test.git</developerConnection>
-     <tag>HEAD</tag>
+     <tag>my-app-1.8</tag>
   </scm>
   <distributionManagement>
     <snapshotRepository>
